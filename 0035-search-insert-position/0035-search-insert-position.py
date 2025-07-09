@@ -5,7 +5,7 @@ class Solution:
         left=0
         right=len(nums)-1
 
-        while left<right:
+        while left<=right:
             mid=(left+right)//2
 
             if nums[mid] == target:
@@ -15,8 +15,9 @@ class Solution:
             else:
                 right=mid-1
 
-        if nums[left]<target:
-            return left+1
-        if nums[left]>=target:
-            return left
+        # if nums[left]<target:
+        #     return left+1
+        # if nums[left]>=target:
+        #     return left
+        return left
         

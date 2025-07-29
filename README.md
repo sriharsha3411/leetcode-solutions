@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sriharsha3411/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/sriharsha3411/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1019-squares-of-a-sorted-array](https://github.com/sriharsha3411/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sriharsha3411/leetcode-solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sriharsha3411/leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/sriharsha3411/leetcode-solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Binary Search
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sriharsha3411/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0367-valid-perfect-square](https://github.com/sriharsha3411/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/sriharsha3411/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sriharsha3411/leetcode-solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Math
 |  |
 | ------- |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/sriharsha3411/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
+## Matrix
+|  |
+| ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sriharsha3411/leetcode-solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
